@@ -23,6 +23,7 @@ function divide(a,b){
     }
 }
 
+//Exportar las funciones
 exports.add = add;
 exports.substract = substract;
 exports.multiply = multiply;
