@@ -5,7 +5,7 @@ const functions = require('./functions.js')
 console.log(functions);
 
 //Le damos valor a las functions y las mandamos imprimir
-console.log(functions.add(3,10));
-console.log(functions.substract(19,17));
-console.log(functions.multiply(24,3));
-console.log(functions.divide(10,0));
+console.log(functions.add(7,10));
+console.log(functions.substract(20,17));
+console.log(functions.multiply(24,9));
+console.log(functions.divide(18,0));
